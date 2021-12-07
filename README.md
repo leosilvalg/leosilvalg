@@ -3,9 +3,11 @@
 <h4> Personal Stuffs </h4>
 
 - 🧑‍💻 I currently study at [Trybe](https://www.betrybe.com/)
+- 🏠 I'm from Osasco, SP - Brasil
 - 📫 How to reach me: leonardorc.geo@gmail.com
 
-  
+<h4> Technologies </h4>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
