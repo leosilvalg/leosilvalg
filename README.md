@@ -1,12 +1,12 @@
 <h1 align = "center"> Hi everyone 👋, I'm Leonardo </h1>
 
-<h4> Personal Stuffs </h4>
+<h3> Personal Stuffs </h3>
 
 - 🧑‍💻 I currently study at [Trybe](https://www.betrybe.com/)
 - 🏠 I'm from Osasco, SP - Brasil
 - 📫 How to reach me: leonardorc.geo@gmail.com
 
-<h4> Technologies </h4>
+<h3> Technologies </h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
