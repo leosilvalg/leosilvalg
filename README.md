@@ -1,10 +1,13 @@
 <h1 align = "center"> Hi everyone 👋, I'm Leonardo </h1>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <h3> Personal Stuffs </h3>
 
 - 🧑‍💻 I currently study at [Trybe](https://www.betrybe.com/)
 - 🏠 I'm from Osasco, SP - Brasil
 - 📫 How to reach me: leonardorc.geo@gmail.com
+
 
 <h3> Technologies </h3>
 
