@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi everyone 👋, I'm Leonardo </h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h3> Personal Stuffs </h3>
 
