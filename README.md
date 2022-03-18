@@ -5,6 +5,8 @@
 <h3> Personal Stuffs </h3>
 
 - 🧑‍💻 I currently study at [Trybe](https://www.betrybe.com/)
+- 🌲 I’m currently learning React, Hooks, Context API, Redux
+- 💬 Ask me about JavaScript, React & Data
 - 🏠 I'm from Osasco, SP - Brasil
 - 📫 How to reach me: leonardorc.geo@gmail.com
 
