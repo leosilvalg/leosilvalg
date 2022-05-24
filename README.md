@@ -46,5 +46,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosilvalg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Leonardo Silva ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=leosilvalg&custom_title=Leonardo%20Contribution%20Graph&theme=react-dark)
-
